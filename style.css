@@ -1,0 +1,23 @@
+.elasol{
+    color:aqua;
+    font-weight:bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    box-shadow:3px 5px 16px;
+    background-color: hotpink;
+    /* 3px untuk offset (kordinat x)
+    5px untuk kordinat y
+    16px biar blur */
+
+}
+.yushi{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.nyang{
+    margin-bottom: 20px;
+box-shadow: 3px 5px 10px pink;
+}
+.nyangie {
+   box-shadow : 3px 5px 10px pink ;
+}
