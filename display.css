@@ -1,0 +1,19 @@
+.box-pink {
+    background-color: pink;
+    width: fit-content;
+}
+.box-yellow {
+    background-color: rgb(255, 255, 158);
+    width: fit-content;
+}
+.box-green {
+    background-color: rgb(121, 255, 242);
+    width: fit-content;
+}
+.box-blue {
+    background-color: rgb(117, 216, 255);
+    width: fit-content;
+}
+.container{
+    display:flex;
+}
